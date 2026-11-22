@@ -1,0 +1,3 @@
+LIBRARY cbord
+EXPORTS
+    API @1
