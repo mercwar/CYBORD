@@ -21,8 +21,8 @@
 git github.com/mercwar/CYBORD
 ```
 
-and then 
-Double click:
+#### .. and then 
+##### Double click:
    
 ```
 double_click_php.bat
