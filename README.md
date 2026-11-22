@@ -18,7 +18,7 @@
 1. After cloning the repo you will CLICK YOUR WAY to being an OFFICIAL CBORd/CYBORD Win64 Computer Programer!
 
 ```
-git github.com/mercwar/CYBORD
+git clone "https://github.com/mercwar/CYBORD"
 ```
 
 #### .. and then 
