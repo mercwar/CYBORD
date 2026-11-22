@@ -31,8 +31,8 @@ double_click_php.bat
 3. Now click on any PHP file and it runs , try the st_cyboard_php.bat file in the bin.
 4. Your PHP APPLICATION and SESSION data will be recorded in the same as on Apache24
 5. The cbord.exe/dll files are included with this Demo
-6. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
-7. Default config includes the CBORD files to execute window.php 
+6. Default php.ini config included and it is set up for the CBORD file imports to execute window.php
+7. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
 6. Be cool like Joe Tron , GoGo!
 
 
