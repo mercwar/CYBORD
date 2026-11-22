@@ -19,11 +19,22 @@
 2. Now click on any PHP file and it runs , try the PHP test file in the bin.
 3. Your PHP APPLICATION and SESSION data will be records the same as on Apache24
 4. The cbord.exe/dll files are included with this Demo
-5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs
-
+5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs (default config runs the window.php file)
+6. Be cool like Joe Tron , GoGo!
+7. 
 ```
 double_click_php.bat
 ```
+
+and then 
+Double click:
+
+```
+app/window.php
+```
+
+YAAAAA!!!! 
+You now know how to program in CBORD/CYBORD!
 
 **CYBORD** is a portable, ready-to-run Windows x64 command-line runtime that executes PHP scripts, decodes **Cyborg Hex Strings (CBOR payloads)**, and calls native **Windows Win32 APIs** directly—with **no external PHP installation required**.
 
