@@ -159,18 +159,25 @@ Create any `.php` file and run it with `cybord_php.exe` to decode hex payloads a
 ```php
 <?php
 // 1. Read the Cyborg Hex String passed on the command line
-$hex = next($argv) ?: '';
-$rawBytes = @hex2bin($hex);
+$hex = $argv ?? '';
+$rawBytes = ($hex !== '' && ctype_xdigit($hex) && strlen($hex) % 2 === 0)
+    ? hex2bin($hex)
+    : '';
 
-// 2. Load cybord.dll
+// 2. Load cybord.dll (or fallback cbord.dll) from the runtime bin folder
 $k32 = FFI::cdef("
     void* LoadLibraryA(const char* lpLibFileName);
     unsigned int GetLastError(void);
 ", "kernel32.dll");
 
-$lib = $k32->LoadLibraryA(__DIR__ . '\\bin\\cybord.dll');
+$binDir  = dirname(PHP_BINARY);
+$dllPath = file_exists($binDir . '\\cybord.dll')
+    ? $binDir . '\\cybord.dll'
+    : $binDir . '\\cbord.dll';
+
+$lib = $k32->LoadLibraryA($dllPath);
 if ($lib === null) {
-    fwrite(STDERR, "Unable to load cybord.dll (Error: " . $k32->GetLastError() . ")\n");
+    fwrite(STDERR, "Unable to load " . basename($dllPath) . " (Error: " . $k32->GetLastError() . ")\n");
     exit(1);
 }
 
@@ -185,6 +192,7 @@ $u32->MessageBoxA(
     "CYBORD Runtime",
     0x00000040
 );
+
 ```
 ![cb](images/cyb1.jpg)
 
