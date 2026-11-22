@@ -33,10 +33,11 @@ Double click:
 app/window.php
 ```
 
-YAAAAA!!!! 
-You now know how to program in CBORD/CYBORD!
+#### YAAAAA!!!! 
 
-**CYBORD** is a portable, ready-to-run Windows x64 command-line runtime that executes PHP scripts, decodes **Cyborg Hex Strings (CBOR payloads)**, and calls native **Windows Win32 APIs** directly—with **no external PHP installation required**.
+###### *You now know how to program in CBORD/CYBORD!*
+
+###### **CYBORD** is a portable, ready-to-run Windows x64 command-line runtime that executes PHP scripts, decodes **Cyborg Hex Strings (CBOR payloads)**, and calls native **Windows Win32 APIs** directly—with **no external PHP installation required**.
 
 ![cb](images/cby-1.jpg)
 
