@@ -28,7 +28,7 @@ git github.com/mercwar/CYBORD
 double_click_php.bat
 ```
 
-3. Now click on any PHP file and it runs , try the PHP test file in the bin.
+3. Now click on any PHP file and it runs , try the st_cyboard_php.bat file in the bin.
 4. Your PHP APPLICATION and SESSION data will be recorded the same as on Apache24
 5. The cbord.exe/dll files are included with this Demo
 6. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
