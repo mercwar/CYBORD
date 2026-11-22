@@ -13,7 +13,7 @@
 
 ---
 
-### ⚡ What is CYBORD?
+### ⚡ What is CYBORD and HOW do you CBORD?
 
 1. After cloning the repo, double click on double_click_php.bat
 2. Now click on any PHP file and it runs , try the PHP test file in the bin.
