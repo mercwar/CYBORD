@@ -15,6 +15,12 @@
 
 ### ⚡ What is CYBORD?
 
+1. After cloning the repo, double click on double_click_php.bat
+2. Now click on any PHP file and it runs , try the PHP test file in the bin.
+```
+double_click_php.bat
+```
+
 **CYBORD** is a portable, ready-to-run Windows x64 command-line runtime that executes PHP scripts, decodes **Cyborg Hex Strings (CBOR payloads)**, and calls native **Windows Win32 APIs** directly—with **no external PHP installation required**.
 
 ![cb](images/cby-1.jpg)
