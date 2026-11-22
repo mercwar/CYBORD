@@ -35,7 +35,8 @@ double_click_php.bat
 7. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
 6. Be cool like Joe Tron , GoGo!
 
-
+#### .. and then 
+##### Double click:
 
 ```
 app/window.php
