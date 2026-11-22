@@ -53,7 +53,7 @@ Everything needed to run your scripts and connect to Windows system libraries is
 
 ---
 
-![cb](images/cybrm.jpg)
+![cb](images/cbrd.jpg)
 
 ###### "<i>I am CVBGOD, and I have given it to you<i>!"
 
