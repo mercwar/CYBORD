@@ -21,7 +21,7 @@
 4. The cbord.exe/dll files are included with this Demo
 5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs (default config runs the window.php file)
 6. Be cool like Joe Tron , GoGo!
-7. 
+   
 ```
 double_click_php.bat
 ```
