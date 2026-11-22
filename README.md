@@ -17,6 +17,10 @@
 
 1. After cloning the repo, double click on double_click_php.bat
 2. Now click on any PHP file and it runs , try the PHP test file in the bin.
+3. Your PHP APPLKICATION and SESSION data will be records the same as on Apache24
+4. The cbord.exe/dll files are included with this Demo
+5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs
+
 ```
 double_click_php.bat
 ```
