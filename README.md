@@ -67,7 +67,7 @@ Normally, automating tasks on Windows forces you to choose between two frustrati
 ---
 
 #### 🚀 1. Everything Runs Out of One Portable Folder
-![cb](images/cyfg2.jpg)
+
 
 CYBORD packs the entire **PHP 8.5 engine** directly inside a single, self-contained Windows program (`cybord_php.exe`). 
 * **No `php.exe` installation needed** — just unzip or drop the `CYBORD` folder anywhere on your PC.
@@ -91,68 +91,183 @@ Everything needed to run your scripts and connect to Windows system libraries is
 
 ###### "<i>I am CVBGOD, and I have given it to you<i>!"
 
-- Clone the repo
-  
-```bash
-git github.com/mercwar/CYBORD
-```
-
-- Then copy this code and navigate to the CYBORD folder.
-
-```bash
-test_cyboard_php.bat
-```
-
-- Then paste the code into your command line and press enter
-
-
-### ✨ Key Features
-
-| Feature | What It Does For You |
-| :--- | :--- |
-| 🚀 **Zero Installation Required** | Run PHP scripts immediately using `cybord_php.exe`—no `php.exe` or global PATH setup needed. |
-| 🧬 **Cyborg Hex String Support** | Pass CBOR hex payloads straight from the command line into your PHP automation scripts. |
-| 🪟 **Direct Win32 API Access** | Call Windows dialogs, file routines, and native DLL functions (`kernel32.dll`, `user32.dll`, `cybord.dll`) from PHP. |
-| 📂 **Run From Anywhere** | Launch `cybord_php.exe` from any folder or batch script without changing directories. |
-
----
-
 
 ### 🚀 Quick Start
-
-![cb](images/cby-fg1.jpg)
-
-- Clone the repo
-  
-```bash
-git github.com/mercwar/CYBORD
-```
-
-
-#### 1. Run a Script with a Cyborg Hex Payload
-Open Command Prompt or PowerShell and pass your `.php` script along with your hex string:
 
 ```bat
 C:\Mercwar-AI\CYBORD\bin\cybord_php.exe C:\Mercwar-AI\CYBORD\cybord_bridge.php A16474657374626F6B
 ```
 
-#### 2. Command Syntax
-
 ```bat
 cybord_php.exe <path\to\script.php> [hex_payload]
 ```
-
 * **`<path\to\script.php>`**: The PHP script you want CYBORD to execute.
 * **`[hex_payload]`** *(optional)*: A Cyborg Hex String passed into your script via `$argv`.
+---
+
+# ⚙️ CYBORD — Technical Reference Manual (v1.0)
+
+**Platform:** Windows x64 (`win32-x64`)  
+**Host Binary:** `bin\cybord.exe` (Embedded PHP 8.5.13 Thread-Safe SAPI)  
+**Native Dispatchers:** `bin\cbord.dll` • `bin\win32api.dll` • `bin\php8ts.dll`  
+**Ecosystem Protocol:** `AVIS-1.0` / `NEXUS-3.0` (`Mercwar Constellation`)
 
 ---
 
+## 1. System Architecture
+![cb](images/cyfg2.jpg)
+**CYBORD** bridges high-level PHP 8.5 scripting with direct native Windows SDK execution without requiring external installers, system `PATH` modifications, or C/C++ compilation boilerplate for routine tasks.
+
+Here is the colored, emoji-enhanced HTML + Markdown version of your pipeline (using GitHub-safe badge colors, structured tables, and inline emojis so it renders vibrantly directly in GitHub READMEs and Markdown viewers):
+
+⚡ CYBORD Execution & Runtime Pipeline
+
+
+1️⃣ Entry & Invocation Layer
+
+
+Entry Method	Trigger	Payload / Argument Format
+🖱️ Windows Explorer	Double-click any .php file	Registered via CYBORD.PHPFile (%1 %*)
+📜 Batch & Shell	Run from .bat or Command Prompt	Standard CLI flags & file paths
+🧬 AVIS / Constellation	Automated ecosystem dispatch	AVIS-1.0 JSON or Cyborg Hex String (CBOR)
+
+
+2️⃣ Core Host Engine (bin\cybord.exe — Win64)
+
+
+Subsystem	Component	Role & Behavior
+⚙️ Embedded Engine	bin\php8ts.dll	Self-contained PHP 8.5.13 ZTS runtime
+🔧 Portable Config	bin\php.ini + ext\php_ffi.dll	Zero-install FFI activation (ffi.enable=1)
+💾 Context & State	$argv + ..\sessions	CLI payload ingestion & disk-backed PHP sessions
+
+
+3️⃣ Native Execution Targets (Dual Bridge)
+
+ 
+
+Target Bridge	Module / Library	Capabilities
+🪟 Windows Kernel (FFI)	kernel32.dll	Process control, FreeConsole(), LoadLibraryA()
+🖼️ Windows GUI (FFI)	user32.dll	Native dialogs (#32770), menu bars, MessageBoxA()
+🎨 Graphics & Shell (FFI)	gdi32.dll • shell32.dll	GDI fonts/brushes & OS shell execution
+⚡ CBORD Core (CLI / FFI)	bin\cbord.dll	Binary dispatcher & rundll32.exe entry point
+📚 Win32 SDK Table (CLI / FFI)	bin\win32api.dll	Pre-compiled 64-bit INT_PTR Windows API lookup table
+💻 Zero-PHP Runner (CLI)	bin\cbord.exe	Standalone one-line native Win32 command execution
+
+If you'd like, I can:
+• Merge this styled pipeline table directly into your full TECHNICAL_REFERENCE.md
+• Generate a matching colored HTML badge header for the top of your CYBORD and CBORD README.md files
+
+
+---
+
+![cb](images/cby-fg1.jpg)
+
+---
+
+## 2. Portable `php.ini` Specification
+
+`bin\php.ini` is configured for zero-install portability and silent CLI/GUI execution on PHP 8.5+:
+
+```ini
+extension_dir="ext"
+extension=php_ffi.dll
+ffi.enable=1
+session.save_handler=files
+session.save_path="..\sessions"
+session.use_cookies=0
+session.cache_limiter=""
+```
+
+### Configuration Notes
+* **Relative Resolution:** `extension_dir="ext"` and `session.save_path="..\sessions"` resolve relative to `bin\`.
+* **CLI Header Suppression:** `session.cache_limiter=""` and `session.use_cookies=0` prevent PHP 8.5 from attempting to emit HTTP headers when `session_start()` is invoked inside an embedded SAPI host.
+* **Session ID Rules (PHP 8.5):** Session IDs passed to `session_id()` must contain only `A-Z`, `a-z`, `0-9`, `-` (hyphen), or `,` (comma). Underscores (`_`) are rejected.
+
+---
+
+## 3. Command-Line Interface & File Association
+
+### Direct Invocation
+```bat
+cybord.exe <path\(\to\script.\)php> [hex_payload | json_payload] [flags...]
+```
+
+### Windows `.php` File Association (`HKCU`)
+Running the association setup registers `.php` files under `HKCU\Software\Classes\CYBORD.PHPFile` without requiring Administrator privileges:
+* **ProgID:** `CYBORD.PHPFile`
+* **Open Command:** `"<path>\bin\cybord.exe" "%1" %*`
+* **Behavior:** Double-clicking any `.php` file in Windows Explorer or typing `script.php <args>` in Command Prompt launches it directly in `cybord.exe`.
+
+---
+
+## 4. Win32 FFI Programming Reference
+
+### Hiding the Console Window (Pure GUI Mode)
+Because `cybord.exe` is compiled as a console host, GUI scripts should detach their console on line 1 before creating windows:
+```php
+\$k32 = FFI::cdef("int FreeConsole(void);", "kernel32.dll");
+\$k32->FreeConsole();
+```
+
+### Loading `cbord.dll` / `win32api.dll` Reliably
+Always resolve DLL paths using `dirname(PHP_BINARY)` so scripts execute identically whether launched from the repo root or `bin\`:
+```php
+\$binDir  = dirname(PHP_BINARY);
+\(dllPath = file_exists(\)binDir . '\\cybord.dll')
+    ? \$binDir . '\\cybord.dll'
+    : \$binDir . '\\cbord.dll';
+
+\$k32  = FFI::cdef("void* LoadLibraryA(const char* lpLibFileName);", "kernel32.dll");
+\$hMod = k32->LoadLibraryA(dllPath);
+```
+
+### Native Win32 Dialog Window & Menu Bar (`#32770`)
+When building native desktop windows in PHP FFI:
+1. **Window Creation:** Use `CreateDialogIndirectParamA` with a `DLGTEMPLATE_EMPTY` struct rather than `RegisterClassExA` with a PHP closure (`WNDPROC`), avoiding `WM_NCCREATE` callback instability while preserving full title-bar dragging, resizing, and keyboard navigation (`IsDialogMessageA`).
+2. **Menu Attachment:** Use `InsertMenuItemA` with `MENUITEMINFOA` (`MIIM_STRING | MIIM_SUBMENU`) so `void* hSubMenu` is passed as a native 64-bit pointer without integer casting.
+3. **Event Handling:** Attach an `__stdcall` `DLGPROC` via `SetWindowLongPtrA($hwnd, 8 /* DWLP_DLGPROC */, $dlgProc)` after window creation to handle `WM_COMMAND` (menu clicks and push buttons) and `WM_CLOSE`.
+
+---
+
+## 6. Cyborg Hex Strings (CBOR Transport) & AVIS Protocol
+
+### Cyborg Hex Payload Rules
+* Passed as a contiguous hexadecimal string in `$argv` (e.g., `A16474657374626F6B` -> `{"test": "ok"}`).
+* Must be validated before decoding (`ctype_xdigit($hex) && strlen($hex) % 2 === 0`) to prevent PHP 8+ `TypeError` on `strlen(false)`.
+
+### `AVIS-1.0` Response Envelope
+AVIS-compliant artifacts (`artifact.cybord_app.php`) emit deterministic JSON to `STDOUT`:
+```json
+{
+  "avis_protocol": "AVIS-1.0",
+  "artifact": "artifact.cybord_app.php",
+  "runtime": "CYBORD",
+  "php_version": "8.5.13",
+  "status": "ok",
+  "dlls": {
+    "cbord.dll": true,
+    "win32api.dll": true
+  },
+  "timestamp_utc": "2026-11-22T05:18:00+00:00"
+}
+```
+
+---
+
+## 7. Exit Codes & Diagnostics
+
+| Exit Code | Component | Meaning |
+| :---: | :--- | :--- |
+| `0` | Host / Script | Execution completed successfully. |
+| `1` | Input / FFI | Missing required `php_ffi.dll` extension or malformed CLI arguments. |
+| `2` | Dynamic Linker | `LoadLibraryA` failed to load `cbord.dll` or `cybord.dll`. |
+| `3` | Win32 UI | Failed to initialize native Win32 dialog or window handle. |
+| `5` | Payload Parser | Invalid or odd-length Cyborg Hex String passed in `$argv`. |
+| `6` | Session Engine | Failed to initialize or persist session file in `..\sessions`. |
 
 ### 💻 Writing Your Own CYBORD Script
 
 ![cb](images/cyb2.jpg)
-
-
 
 Create any `.php` file and run it with `cybord_php.exe` to decode hex payloads and trigger native Windows actions:
 
@@ -196,22 +311,6 @@ $u32->MessageBoxA(
 ```
 ![cb](images/cyb1.jpg)
 
----
-
-### 📦 Included Files
-
-```text
-CYBORD/
-├── bin/
-│   ├── cybord_php.exe        # Standalone CYBORD command-line runner
-│   ├── cybord.dll            # Cyborg Hex String runtime library
-│   ├── php8ts.dll            # Embedded PHP 8.5 runtime engine
-│   ├── php.ini               # Pre-configured runtime settings
-│   └── ext/
-│       └── php_ffi.dll       # Native Windows & DLL bridge module
-├── cybord_bridge.php         # Ready-to-run starter bridge script
-└── README.md
-```
 
 ---
 
