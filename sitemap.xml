@@ -1,391 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/copy_cbord.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cybrm.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cby-1.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cyb2.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cyb1.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/CVBGOD</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cyfg2.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cby-fg1.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cbrd.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/ext/php_ffi.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/cbord.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/test_cybord_bridge.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/php8ts.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/win32api.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/cbord.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/php.ini</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/cybord.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/test_cyboard_php.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/double_click_php.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord-v1.0.zip</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/win32_table.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/favi-con.ico</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/build_cybord.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/_config.yml</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord-v1.1.zip</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/index.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/sitemap.xml</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/.gitmodules</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/build_cbord_php.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cbord32api.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/win32api_wrappers.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cbord.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php-win.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8apache2_4.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/news.txt</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/pharcommand.phar</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8phpdbg.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/glib-2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8embed.lib</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/phar.phar.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_ffi.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_fileinfo.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_snmp.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_intl.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_mysqli.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_exif.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_ftp.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_dba.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_curl.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pgsql.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_gmp.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_tidy.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_dl_test.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sockets.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_com_dotnet.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_odbc.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_pgsql.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_firebird.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_enchant.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_openssl.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sqlite3.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_mysql.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_shmop.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_gd.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_ldap.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_zend_test.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sodium.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_bz2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_odbc.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_sqlite.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sysvshm.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_gettext.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_zip.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_xsl.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_mbstring.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_soap.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libenchant2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libssh2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php.ini-production</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libcrypto-3-x64.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libssl-3-x64.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libsodium.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/gobject-2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/deplister.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/sbom/php.cdx.json</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/sbom/php.spdx.json</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/sbom/php.openvex.json</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/ssl/openssl.cnf</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/ssl/legacy.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/phpdbg.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/readme-redist-bins.txt</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8ts.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/snapshot.txt</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libsasl.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/license.txt</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icuio77.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libsqlite3.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icuuc77.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/lib/enchant/libenchant2_hunspell.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/README.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icudt77.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/brotlicommon.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icuin77.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php.ini-development</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libpq.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/dev/php8ts.lib</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/nghttp2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/brotlidec.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php-cgi.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php/gmodule-2.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/lib/win32api.lib</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/lib/cbord.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/app/window.php</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/sessions/sess_cybord-verify-69152</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/README.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/win32api.def</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/fire-site.sh</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cbord_dll.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/win32api.bat</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/cbord.def</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord.rc</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/.github/workflows/fire-site.yml</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/build_cybord_php.log</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/index.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cbord_dll.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/obj/quick_build.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cbord.exp</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cbord.obj</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cybord.res</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/obj/quick_build.log</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cybord.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cbord.obj</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/obj/cbord.exp</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/.github/workflows/fire-site.yml</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/build_cybord.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord-v1.0.zip</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/google77a4b19e8f99751c.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/fire-site.sh</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/build_cybord_php.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/favi-con.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cbord_dll.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/phpize.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/build/default.manifest</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/build/template.rc</loc>
@@ -394,283 +76,226 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/build/gen_stub.php</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/build/default.manifest</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/spprintf.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/config.phpize.js</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_variables.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/phpize.js</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_version.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/run-tests.php</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/SAPI.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/config.w32.phpize.in</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_syslog.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/Makefile.phpize</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_glob.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/ext_deps.js</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/main_arginfo.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/configure.tail</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/config.w32.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/confutils.js</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/rfc1867.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_com_dotnet.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/snprintf.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sqlite3.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_reentrancy.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sysvshm.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_ini_builder.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_gettext.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_compat.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_firebird.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/userspace_arginfo.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_bz2.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_userspace.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_soap.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_mmap.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_ldap.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_context.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_pgsql.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_transport.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_mysql.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_glob_wrapper.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_tidy.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_plain_wrapper.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_xsl.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_streams_int.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_mysqli.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_filter_api.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_curl.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_output.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sodium.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_open_temporary_file.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_zip.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_globals.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_dba.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/fastcgi.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_sqlite.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_network.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php8ts.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_streams.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_shmop.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_scandir.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_zend_test.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_odbc_utils.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_openssl.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_ini.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sockets.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_ticks.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_fileinfo.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/charclass.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_intl.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/fopen_wrappers.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pgsql.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_ftp.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_memory_streams.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_dl_test.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/http_status_codes.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_ffi.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_content_types.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_odbc.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_main.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_gmp.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_getopt.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_snmp.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/unistd.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_enchant.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/winutil.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_gd.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/nice.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_odbc.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/sendmail.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_exif.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/ipc.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_mbstring.lib</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/php_win32_globals.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/phpize.bat</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/wsyslog.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/lexbor/php_lexbor.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/ioutil.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/xml/expat_compat.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/codepage.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/xml/php_xml.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/fnmatch.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/sodium/php_libsodium.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/console.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/php_session.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/readdir.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/mod_mm.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/getrusage.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/mod_user.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/time.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/mod_files.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/param.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pdo/php_pdo_error.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/select.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pdo/pdo_sql_parser.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/php_registry.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/syslog.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/signal.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/sockets.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pdo/php_pdo.h</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pdo/php_pdo_error.h</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pdo/php_pdo_driver.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/simplexml/php_simplexml.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pdo/pdo_sql_parser.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/simplexml/php_simplexml_exports.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_vio.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/simplexml/php_simplexml.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_alloc.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_xxhash.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_charset.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_protocol_frame_codec.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_sha.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_enum_n_def.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_murmur.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_auth.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_result.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_result_meta.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_statistics.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_connection.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_priv.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_debug.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_commands.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_block_alloc.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_read_buffer.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_ext_plugin.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_portability.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_wireprotocol.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_plugin.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/php_mysqlnd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_libmysql_compat.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysql_float_to_double.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_ps.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_reverse_api.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_structs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/config-win.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/json/php_json.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/json/php_json_parser.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/json/php_json_scanner.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_ripemd.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_gost.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_joaat.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_adler32.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_ripemd.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_haval.h</loc>
@@ -679,22 +304,10 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_fnv.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_xxhash.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_adler32.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/xxhash/xxhash.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_whirlpool.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_murmur.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_md.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_snefru.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_sha3.h</loc>
@@ -703,130 +316,160 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_crc32.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/xxhash/xxhash.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_gost.h</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_tiger.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_sha.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_md.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/hash/php_hash_snefru.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/filter/php_filter.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_image.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/curl/php_curl.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/url_scanner_ex.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_libmysql_compat.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_uuencode.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_result.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/winver.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_structs.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_math_round_mode.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/config-win.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/dir_arginfo.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_ext_plugin.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_fopen_wrappers.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_read_buffer.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_array.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_priv.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_browscap.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/php_mysqlnd.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/pageinfo.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_block_alloc.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/base64.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_vio.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/fsock.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysql_float_to_double.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/exec.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_reverse_api.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/head.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_protocol_frame_codec.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_mail.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/credits_sapi.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_portability.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_dir_int.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_alloc.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_commands.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_plugin.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_result_meta.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_debug.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_connection.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_charset.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_ps.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_auth.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_wireprotocol.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_enum_n_def.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqlnd/mysqlnd_statistics.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crypt_blowfish.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crypt_freesec.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_net.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_assert.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/user_filters_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_incomplete_class.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_crypt.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_versioning.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_ext_syslog.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/password_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/file_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_crypt_r.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/proc_open.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/css.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/credits_ext.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_password.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/sha1.h</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/info.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_dir.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_standard.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/credits.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crc32_x86.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_assert.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/credits_ext.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/basic_functions_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/exec.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/flock_compat.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/pageinfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_dir_int.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/css.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/proc_open.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_crypt.h</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/url.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_filestat.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/basic_functions.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_fopen_wrappers.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_http.h</loc>
@@ -835,16 +478,25 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_var.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/file.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_standard.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_dir.h</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/html.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/basic_functions.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/scanf.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/fsock.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_mail.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_image.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_browscap.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/quot_print.h</loc>
@@ -853,64 +505,148 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_math.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crc32.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_array.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_dns.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/streamsfuncs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_password.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crc32_x86.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_string.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/basic_functions_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/credits.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/scanf.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/md5.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/dl_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/dl.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/winver.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/html_tables.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/info.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_filestat.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/flock_compat.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/dl_arginfo.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/date/lib/timelib_config.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/user_filters_arginfo.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/date/lib/timelib.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/streamsfuncs.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/date/php_date.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/url_scanner_ex.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_net.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_math_round_mode.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/dir_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_versioning.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_incomplete_class.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/md5.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/file.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_dns.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/base64.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_uuencode.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crypt_freesec.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/crc32.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_string.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_ext_syslog.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/credits_sapi.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/dl.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/php_crypt_r.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/password_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/file_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/standard/head.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/random/php_random_csprng.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/random/php_random_uint128.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/random/php_random.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/sodium/php_libsodium.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/lexbor/php_lexbor.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/php_session.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/mod_mm.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/mod_files.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/session/mod_user.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/sockets/php_sockets.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/sockets/windows_common.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/mbstring.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/php_onig_compat.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/eaw_table.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_string.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_convert.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_encoding.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_filter_output.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfilter_pass.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_defs.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_memory_device.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfilter_wchar.h</loc>
@@ -922,160 +658,70 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfilter.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_encoding.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_memory_device.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_convert.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_defs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/eaw_table.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_filter_output.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_string.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_consts.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_language.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfilter_pass.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/mbfl/mbfl_consts.h</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/libmbfl/config.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/php_onig_compat.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mbstring/php_mbregex.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/lexbor/selectors-adapted/selectors.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/json/php_json_parser.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/namespace_compat.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/json/php_json.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/xpath_callbacks.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/xml_common.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/dom_ce.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/json/php_json_scanner.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/opcache/zend_accelerator_api.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uri_parser_whatwg.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/iconv/php_iconv.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/php_uri.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_directory.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/php_uri_common.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_observer.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriNormalize.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_exceptions.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriSetHostCommon.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_fixedarray.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriSets.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/php_spl.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriMemory.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_iterators.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriParseBase.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_dllist.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriCopy.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_heap.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriIp4Base.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_functions.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriSetHostBase.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_array.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriNormalizeBase.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/xml/php_xml.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriCommon.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriConfig.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uri_parser_rfc3986.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uri_parser_php_parse_url.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/sockets/php_sockets.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/sockets/windows_common.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/php_gd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_tga.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_io.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontl.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdcache.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdhelpers.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfonts.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/wbmp.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/bmp.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_intern.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/jisx0208.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontt.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontmb.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontg.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_errors.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/xml/expat_compat.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/php_pcre.h</loc>
@@ -1093,16 +739,13 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/pcre2lib/pcre2_intmodedep.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/pcre2lib/pcre2.h</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/pcre2lib/pcre2_jit_simd_inc.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/pcre2lib/config.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/pcre2lib/pcre2.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/iconv/php_iconv.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/pcre/pcre2lib/config.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqli/mysqli_mysqlnd.h</loc>
@@ -1111,565 +754,136 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/mysqli/php_mysqli_structs.h</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/php_uri.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uri_parser_rfc3986.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriCopy.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriParseBase.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriMemory.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriIp4Base.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriSetHostCommon.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriCommon.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriNormalizeBase.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriNormalize.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriSetHostBase.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriConfig.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uriparser/src/UriSets.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uri_parser_whatwg.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/php_uri_common.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/uri/uri_parser_php_parse_url.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/date/php_date.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/date/lib/timelib.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/date/lib/timelib_config.h</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/libxml/php_libxml.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_dllist.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/xpath_callbacks.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/php_spl.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/xml_common.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_observer.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/dom_ce.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_directory.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/lexbor/selectors-adapted/selectors.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_heap.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_fixedarray.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_exceptions.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_functions.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_array.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/spl/spl_iterators.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/curl/php_curl.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/dom/namespace_compat.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gmp/php_gmp_int.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/random/php_random_csprng.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontmb.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/random/php_random.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontl.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/random/php_random_uint128.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_tga.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/TSRM/tsrm_win32.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_intern.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/wbmp.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_errors.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd_io.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontt.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdcache.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/jisx0208.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/bmp.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdhelpers.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfontg.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gdfonts.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/libgd/gd.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/ext/gd/php_gd.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/TSRM/TSRM.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/select.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/syslog.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/sockets.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/php_win32_globals.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/php_registry.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/readdir.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/sendmail.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/wsyslog.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/fnmatch.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/param.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/signal.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/unistd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/ipc.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/ioutil.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/time.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/console.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/getrusage.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/codepage.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/winutil.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/win32/nice.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_syslog.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_open_temporary_file.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_network.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_memory_streams.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_ini_builder.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_glob_wrapper.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_mmap.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_transport.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_plain_wrapper.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_context.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_filter_api.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_stream_userspace.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/php_streams_int.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/streams/userspace_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_getopt.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_content_types.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/main_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_ini.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/charclass.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_variables.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_scandir.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/config.w32.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_main.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/http_status_codes.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/fastcgi.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_globals.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_output.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/rfc1867.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_ticks.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/spprintf.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_compat.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/snprintf.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_streams.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/SAPI.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_odbc_utils.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/fopen_wrappers.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_glob.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_version.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/main/php_reentrancy.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_strtod.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_compile.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_language_scanner_defs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_type_info.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_opcodes.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_config.w32.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_string.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_errors.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_trace_map.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_lazy_objects.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_max_execution_timer.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_string.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_weakrefs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_variables.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_system_id.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_builtin_functions_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_map_ptr.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini_scanner_defs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_globals.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_multiply.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_portability.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_dtrace.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_llist.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_strtod_int.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_def.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_stream.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_gc.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ast.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_closures.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_hash.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_dfg.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_worklist.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_ssa.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_func_info.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_inference.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_call_graph.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_cfg.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_dump.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_optimizer.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_simd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_enum.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_virtual_cwd.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_objects_API.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_multibyte.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_execute.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_str_public.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_attributes_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_cpuinfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_highlight.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_sort.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_verify_type_inference.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_atomic.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_exceptions_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_language_parser.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_bitset.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_execute.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_hrtime.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_inheritance.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_property_hooks.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_weakrefs_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_object_handlers.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_generators_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_call_stack.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_frameless_function.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_globals_macros.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_alloc.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_closures_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_range_check.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini_scanner.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_stack.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_constants.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_handlers.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_string_public.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_long.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_generators.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_trace_handlers.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_enum_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_operators.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_trace_lines.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_fibers_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_extensions.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_interfaces.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_modules.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_list.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_exceptions.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_arena.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_attributes.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_gdb.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_objects.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_observer.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_float.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_mmap.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini_parser.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_fibers.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_signal.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_iterators.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_API.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_alloc_sizes.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_types.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_builtin_functions.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ptr_stack.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_constants_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_interfaces_arginfo.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_language_scanner.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_str.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_build.h</loc>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/TSRM/tsrm_win32.h</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/sapi/embed/php_embed.h</loc>
@@ -1678,15 +892,801 @@
     <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/sapi/cli/cli.h</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_multibyte.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_bitset.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_closures.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_range_check.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_string_public.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_alloc.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_portability.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_hrtime.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_highlight.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_globals_macros.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_iterators.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_execute.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_fibers_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_def.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_generators.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_inheritance.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_interfaces.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini_scanner.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_exceptions_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_attributes.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_mmap.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_config.w32.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_types.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_system_id.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_trace_map.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_str.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_operators.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_sort.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_globals.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_variables.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_execute.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_float.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_observer.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_interfaces_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_weakrefs.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_multiply.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_string.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_generators_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_atomic.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_constants.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_enum.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_builtin_functions.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_call_stack.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_list.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_signal.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_objects_API.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_objects.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_cpuinfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_inference.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_ssa.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_dump.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_call_graph.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_dfg.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_worklist.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_cfg.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_optimizer.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/Optimizer/zend_func_info.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ast.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_type_info.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_language_scanner.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ptr_stack.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_frameless_function.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_opcodes.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_str_public.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_enum_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini_parser.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_ini_scanner_defs.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_verify_type_inference.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_handlers.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_arena.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_map_ptr.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_property_hooks.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_dtrace.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_object_handlers.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_modules.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_build.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_alloc_sizes.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_virtual_cwd.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_language_scanner_defs.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_strtod.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_extensions.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_trace_handlers.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_vm_trace_lines.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_attributes_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_builtin_functions_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_language_parser.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_llist.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_max_execution_timer.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_closures_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_errors.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_strtod_int.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_lazy_objects.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_hash.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_API.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_smart_string.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_exceptions.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_stack.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_weakrefs_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_constants_arginfo.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_stream.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_gdb.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_gc.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_simd.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_compile.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_fibers.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/include/Zend/zend_long.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/ext_deps.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/confutils.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/phpize.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/configure.tail</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/config.w32.phpize.in</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/config.phpize.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/Makefile.phpize</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/script/run-tests.php</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_zend_test.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_com_dotnet.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_ffi.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_mbstring.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pgsql.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_gettext.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_gmp.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_enchant.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sockets.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_dba.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_firebird.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_dl_test.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_sqlite.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sqlite3.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_snmp.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sysvshm.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_zip.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_ldap.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_soap.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_curl.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_odbc.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_gd.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_sodium.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_ftp.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_odbc.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_openssl.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_pgsql.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_fileinfo.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_bz2.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_tidy.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_shmop.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_mysqli.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_pdo_mysql.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php8ts.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_xsl.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_intl.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php-dev/php-8.5.13-devel-vs17-x64/lib/php_exif.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord-v1.1.zip</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/cbord.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/test_cybord_bridge.php</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/php8ts.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/php.ini</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/test_cyboard_php.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/cbord.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/ext/php_ffi.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/cybord.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/bin/win32api.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/build_cbord_php.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/_config.yml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/win32api.def</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/README.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/win32_table.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cbord32api.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/.gitmodules</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cyb2.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cybrm.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/CVBGOD</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cby-1.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cyfg2.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cbrd.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cby-fg1.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/images/cyb1.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/cbord.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/win32api_wrappers.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/lib/cbord.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/lib/win32api.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/win32api.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/double_click_php.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/phar.phar.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/glib-2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libcrypto-3-x64.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/gmodule-2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icuuc77.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libenchant2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libssl-3-x64.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php-cgi.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/snapshot.txt</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8ts.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8phpdbg.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/pharcommand.phar</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icuio77.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/gobject-2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libsqlite3.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/news.txt</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libsasl.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8embed.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/brotlicommon.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icuin77.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php.ini-production</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libssh2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/phpdbg.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libpq.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php-win.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php8apache2_4.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_gd.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_xsl.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_curl.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_dba.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_intl.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_mysql.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sqlite3.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_firebird.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_exif.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_zend_test.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_odbc.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_gmp.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_ffi.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_com_dotnet.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_pgsql.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_mysqli.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sodium.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_zip.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_ftp.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_openssl.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_snmp.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_dl_test.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_fileinfo.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_tidy.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sysvshm.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_shmop.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_bz2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_ldap.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_gettext.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_sqlite.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_mbstring.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_enchant.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_sockets.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_soap.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pgsql.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/ext/php_pdo_odbc.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/libsodium.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/readme-redist-bins.txt</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/README.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/icudt77.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/php.ini-development</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/ssl/openssl.cnf</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/ssl/legacy.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/sbom/php.openvex.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/sbom/php.spdx.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/extras/sbom/php.cdx.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/dev/php8ts.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/lib/enchant/libenchant2_hunspell.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/nghttp2.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/license.txt</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/deplister.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/php/brotlidec.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CYBORD/blob/main/copy_cbord.bat</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CYBORD/blob/main/build.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/app/window.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/google77a4b19e8f99751c.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CYBORD/blob/main/cybord.c</loc>
   </url>
 </urlset>
