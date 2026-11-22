@@ -115,10 +115,9 @@ cybord_php.exe <path\to\script.php> [hex_payload]
 ---
 
 ## 1. System Architecture
-![cb](images/cyfg2.jpg)
+
 **CYBORD** bridges high-level PHP 8.5 scripting with direct native Windows SDK execution without requiring external installers, system `PATH` modifications, or C/C++ compilation boilerplate for routine tasks.
 
-Here is the colored, emoji-enhanced HTML + Markdown version of your pipeline (using GitHub-safe badge colors, structured tables, and inline emojis so it renders vibrantly directly in GitHub READMEs and Markdown viewers):
 
 ⚡ CYBORD Execution & Runtime Pipeline
 
@@ -152,10 +151,6 @@ Target Bridge	Module / Library	Capabilities
 ⚡ CBORD Core (CLI / FFI)	bin\cbord.dll	Binary dispatcher & rundll32.exe entry point
 📚 Win32 SDK Table (CLI / FFI)	bin\win32api.dll	Pre-compiled 64-bit INT_PTR Windows API lookup table
 💻 Zero-PHP Runner (CLI)	bin\cbord.exe	Standalone one-line native Win32 command execution
-
-If you'd like, I can:
-• Merge this styled pipeline table directly into your full TECHNICAL_REFERENCE.md
-• Generate a matching colored HTML badge header for the top of your CYBORD and CBORD README.md files
 
 
 ---
@@ -230,6 +225,9 @@ When building native desktop windows in PHP FFI:
 ---
 
 ## 6. Cyborg Hex Strings (CBOR Transport) & AVIS Protocol
+![cb](images/cyfg2.jpg)
+
+
 
 ### Cyborg Hex Payload Rules
 * Passed as a contiguous hexadecimal string in `$argv` (e.g., `A16474657374626F6B` -> `{"test": "ok"}`).
