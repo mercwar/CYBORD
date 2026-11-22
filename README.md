@@ -19,7 +19,8 @@
 2. Now click on any PHP file and it runs , try the PHP test file in the bin.
 3. Your PHP APPLICATION and SESSION data will be records the same as on Apache24
 4. The cbord.exe/dll files are included with this Demo
-5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs (default config runs the window.php file)
+5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
+6. Default config includes the CBORD files to execute window.php file)D
 6. Be cool like Joe Tron , GoGo!
    
 ```
