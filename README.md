@@ -16,11 +16,15 @@
 ### ⚡ What is CYBORD and HOW do you CBORD?
 
 1. After cloning the repo, double click on double_click_php.bat
-2. Now click on any PHP file and it runs , try the PHP test file in the bin.
-3. Your PHP APPLICATION and SESSION data will be recorded the same as on Apache24
-4. The cbord.exe/dll files are included with this Demo
-5. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
-6. Default config includes the CBORD files to execute window.php 
+   
+   ```
+   git github.com/mercwar/CYBORD
+   ```
+3. Now click on any PHP file and it runs , try the PHP test file in the bin.
+4. Your PHP APPLICATION and SESSION data will be recorded the same as on Apache24
+5. The cbord.exe/dll files are included with this Demo
+6. Adjust the php.ini as you would normally in Apache24 adding your libs and configs 
+7. Default config includes the CBORD files to execute window.php 
 6. Be cool like Joe Tron , GoGo!
    
 ```
