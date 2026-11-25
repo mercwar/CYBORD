@@ -313,7 +313,7 @@ $u32->MessageBoxA(
 ---
 
 
-<p align="center">
+<p align="left">
   <b>Mercwar AI • Constellation Gateway Uplink • Cyborg Ecosystem</b><br/>
   <sub>Copyright © Mercwar AI. All rights reserved.</sub>
 </p>
